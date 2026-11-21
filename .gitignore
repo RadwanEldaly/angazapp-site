@@ -1,0 +1,9 @@
+node_modules/
+.vercel/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+# HAR / network captures can contain cookies and tokens - never commit them
+*.har
+*.har.zip
