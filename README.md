@@ -23,6 +23,13 @@ media/                  Images + operation videos
 robots.txt, sitemap.xml SEO
 ```
 
+## Development
+```bash
+npm install
+npm run build:css # run after editing any HTML classes
+npx serve .
+```
+
 ## Run locally
 ```bash
 npx serve .
